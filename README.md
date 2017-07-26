@@ -1,0 +1,2 @@
+# myworld
+learn python
